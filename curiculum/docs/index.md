@@ -2,7 +2,11 @@
 ## Make your first contribution!
 
 For [Github](https://github.com/nammahari/cit-hackers.git)
-
+# Internet not working properly
+## help us to get the internet access
+this is sthe conition here
+- in pondicherry university
+- help please
 ## For Contact
 
 - Telegram : [t.me/nammahari](https://t.me/nammahari)
