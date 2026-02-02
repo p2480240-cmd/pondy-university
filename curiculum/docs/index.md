@@ -7,6 +7,7 @@ For [Github](https://github.com/nammahari/cit-hackers.git)
 this is sthe conition here
 - in pondicherry university
 - help please
+- you can see this
 ## For Contact
 
 - Telegram : [t.me/nammahari](https://t.me/nammahari)
